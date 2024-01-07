@@ -16,6 +16,8 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%
+    display: flex;
+    justify-content: space-around;  
   }
   
   .colorbox1 {
@@ -24,7 +26,7 @@
     padding: 10px;
     margin: 10px 10px;
     width: 275px;
-    height: 75px;
+    height: 115px;
     font-family: 'Work Sans';
     text-align: center;
     
@@ -36,7 +38,7 @@
     padding: 10px 10px;
     margin: 10px 10px;
     width: 275px;
-    height: 75px;
+    height: 115px;
     font-family: 'work sans';
     text-align: center;
   }
@@ -47,7 +49,7 @@
     padding: 10px 10px;
     margin: 10px 10px;
     width: 275px;
-    height: 75px;
+    height: 115px;
     font-family: 'work sans';
     text-align: center;
   }
@@ -58,7 +60,7 @@
     padding: 10px 10px;
     margin: 10px 10px;
     width: 275px;
-    height: 75px;
+    height: 115px;
     font-family: 'work sans';
     text-align: center;
   }
@@ -69,7 +71,7 @@
     padding: 10px 10px;
     margin: 10px 10px;
     width: 275px;
-    height: 75px;
+    height: 115px;
     font-family: 'work sans';
     text-align: center;
   }
